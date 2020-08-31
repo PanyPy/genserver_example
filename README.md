@@ -1,6 +1,6 @@
 # ElhexDelivery
 
-**TODO: Add description**
+Elixir OTP App with a GenServer example
 
 ## Installation
 
